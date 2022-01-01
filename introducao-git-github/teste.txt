@@ -1,0 +1,1 @@
+testando a criação de diretorio e arquivo .txt criado a partir de comandos em terminal linux.
